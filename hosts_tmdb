@@ -1,17 +1,17 @@
 # TMDB Hosts Start
+18.155.202.83		www.themoviedb.org
 18.155.202.61		www.themoviedb.org
 18.155.202.127		www.themoviedb.org
 18.155.202.52		www.themoviedb.org
-18.155.202.83		www.themoviedb.org
 18.238.192.122		api.themoviedb.org
 18.238.192.100		api.themoviedb.org
-18.238.192.112		api.themoviedb.org
 18.238.192.111		api.themoviedb.org
-143.244.50.90		image.tmdb.org
-18.238.192.90		api.tmdb.org
-18.238.192.100		api.tmdb.org
+18.238.192.112		api.themoviedb.org
+143.244.49.177		image.tmdb.org
 18.238.192.8		api.tmdb.org
+18.238.192.100		api.tmdb.org
+18.238.192.90		api.tmdb.org
 18.238.192.58		api.tmdb.org
-# Update Time: 2024-09-12 17:20:53 (UTC+8) 
+# Update Time: 2024-09-13 17:21:00 (UTC+8) 
 # Update URL: https://raw.githubusercontent.com/s0nd9r/hosts/main/host_tmdb
 # TMDB Hosts End
