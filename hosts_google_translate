@@ -1,6 +1,11 @@
 # Google_Translate Hosts Start
-172.217.164.106		translate.googleapis.com
-142.250.72.206		translate.google.com
-# Update Time: 2024-10-31 17:22:06 (UTC+8) 
+172.253.122.95		translate.googleapis.com
+172.253.63.138		translate.google.com
+172.253.63.101		translate.google.com
+172.253.63.100		translate.google.com
+172.253.63.113		translate.google.com
+172.253.63.102		translate.google.com
+172.253.63.139		translate.google.com
+# Update Time: 2024-11-01 17:21:51 (UTC+8) 
 # Update URL: https://raw.githubusercontent.com/s0nd9r/hosts/main/host_google_translate
 # Google_Translate Hosts End
