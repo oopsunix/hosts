@@ -95,7 +95,7 @@ def main(filename):
                     hosts_content += f"{ip}\t\t{domain}\n"
 
         content += f"# Update Time: {str(update_time)} (UTC+8) \n"
-        content += f"# Update URL: https://raw.githubusercontent.com/s0nd9r/hosts/main/host_{key.lower()}\n"
+        content += f"# Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/host_{key.lower()}\n"
         content += f"# {key} Hosts End"
 
         # 将准备好的内容保存到key_file_contents字典中
@@ -110,7 +110,7 @@ def main(filename):
         write_to_file(contents, f'hosts_{key.lower()}')
 
     hosts_content += f"# Update Time: {str(update_time)} (UTC+8) \n"
-    hosts_content += f"# Update URL: https://raw.githubusercontent.com/s0nd9r/hosts/main/hosts\n"
+    hosts_content += f"# Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/hosts\n"
     write_to_file(hosts_content, 'hosts')  # 写入hosts.txt
 
     print("Update Hosts Success")
