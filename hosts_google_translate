@@ -1,11 +1,6 @@
 # Google_Translate Hosts Start
-172.253.122.95		translate.googleapis.com
-142.251.179.100		translate.google.com
-142.251.179.102		translate.google.com
-142.251.179.113		translate.google.com
-142.251.179.138		translate.google.com
-142.251.179.101		translate.google.com
-142.251.179.139		translate.google.com
-# Update Time: 2024-11-27 17:24:16 (UTC+8) 
+142.250.191.234		translate.googleapis.com
+142.250.191.206		translate.google.com
+# Update Time: 2024-11-28 17:24:38 (UTC+8) 
 # Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/host_google_translate
 # Google_Translate Hosts End
