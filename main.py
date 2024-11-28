@@ -93,9 +93,9 @@ def main(filename):
                     content += f"{ip}\t\t{domain}\n"
                     # 同时构建hosts.txt的内容
                     hosts_content += f"{ip}\t\t{domain}\n"
-
+                    break # 对每个域名查询结果，只取一个IP地址
         content += f"# Update Time: {str(update_time)} (UTC+8) \n"
-        content += f"# Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/host_{key.lower()}\n"
+        content += f"# Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/hosts_{key.lower()}\n"
         content += f"# {key} Hosts End"
 
         # 将准备好的内容保存到key_file_contents字典中

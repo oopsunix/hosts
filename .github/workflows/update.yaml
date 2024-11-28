@@ -2,7 +2,7 @@ name: Update Hosts
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 13 * * *"
 
 jobs:
   build:
@@ -31,7 +31,7 @@ jobs:
         uses: Automattic/action-commit-to-branch@master
         with:
           branch: 'main'
-          commit_message: '🚀 update hosts'
+          commit_message: 'update hosts'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
