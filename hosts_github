@@ -1,28 +1,28 @@
 # GitHub Hosts Start
 185.199.108.153		github.io
-20.99.227.183		github.dev
+52.224.38.193		github.dev
 192.0.66.2		github.blog
-140.82.112.17		github.community
-185.199.108.153		githubstatus.com
+140.82.114.18		github.community
+185.199.111.153		githubstatus.com
 140.82.116.4		github.com
-140.82.113.25		alive.github.com
+140.82.114.26		alive.github.com
 140.82.116.6		api.github.com
 #		assets-cdn.github.com
-140.82.114.21		central.github.com
+140.82.113.22		central.github.com
 140.82.116.9		codeload.github.com
-140.82.113.22		collector.github.com
-140.82.116.4		gist.github.com
-140.82.113.25		live.github.com
-185.199.108.154		github.githubassets.com
-185.199.108.133		avatars.githubusercontent.com
+140.82.112.21		collector.github.com
+140.82.116.3		gist.github.com
+140.82.112.25		live.github.com
+185.199.109.154		github.githubassets.com
+185.199.109.133		avatars.githubusercontent.com
 185.199.108.133		avatars0.githubusercontent.com
-185.199.110.133		avatars1.githubusercontent.com
+185.199.108.133		avatars1.githubusercontent.com
 185.199.108.133		avatars2.githubusercontent.com
-185.199.110.133		avatars3.githubusercontent.com
-185.199.111.133		avatars4.githubusercontent.com
-185.199.108.133		avatars5.githubusercontent.com
-185.199.108.133		camo.githubusercontent.com
-185.199.110.133		cloud.githubusercontent.com
+185.199.109.133		avatars3.githubusercontent.com
+185.199.108.133		avatars4.githubusercontent.com
+185.199.110.133		avatars5.githubusercontent.com
+185.199.111.133		camo.githubusercontent.com
+185.199.108.133		cloud.githubusercontent.com
 138.91.182.224		copilot-proxy.githubusercontent.com
 185.199.108.133		desktop.githubusercontent.com
 185.199.108.133		favicons.githubusercontent.com
@@ -31,14 +31,14 @@
 185.199.111.133		objects.githubusercontent.com
 185.199.109.133		user-images.githubusercontent.com
 13.107.42.16		pipelines.actions.githubusercontent.com
-16.182.68.41		github-cloud.s3.amazonaws.com
-54.231.225.153		github-com.s3.amazonaws.com
-54.231.193.169		github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.32.209		github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.180.222		github-production-user-asset-6210df.s3.amazonaws.com
+16.15.202.223		github-cloud.s3.amazonaws.com
+52.216.8.131		github-com.s3.amazonaws.com
+52.217.230.217		github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.234.113		github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.108.228		github-production-user-asset-6210df.s3.amazonaws.com
 185.199.108.133		github.map.fastly.net
-151.101.41.194		github.global.ssl.fastly.net
-13.107.213.69		vscode.dev
-# Update Time: 2025-11-02 21:27:42 (UTC+8) 
+146.75.105.194		github.global.ssl.fastly.net
+13.107.246.66		vscode.dev
+# Update Time: 2025-11-03 21:35:55 (UTC+8) 
 # Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/hosts_github
 # GitHub Hosts End
