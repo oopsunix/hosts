@@ -2,79 +2,79 @@
 185.199.111.153		github.io
 52.224.38.193		github.dev
 192.0.66.2		github.blog
-140.82.113.17		github.community
-185.199.108.153		githubstatus.com
-140.82.114.3		github.com
-140.82.112.25		alive.github.com
-140.82.112.6		api.github.com
+140.82.112.18		github.community
+185.199.111.153		githubstatus.com
+140.82.114.4		github.com
+140.82.114.25		alive.github.com
+140.82.113.6		api.github.com
 #		assets-cdn.github.com
-140.82.114.22		central.github.com
-140.82.113.10		codeload.github.com
-140.82.112.22		collector.github.com
+140.82.112.22		central.github.com
+140.82.114.9		codeload.github.com
+140.82.114.22		collector.github.com
 140.82.112.3		gist.github.com
-140.82.112.25		live.github.com
+140.82.113.26		live.github.com
 185.199.109.215		github.githubassets.com
-185.199.108.133		avatars.githubusercontent.com
-185.199.108.133		avatars0.githubusercontent.com
+185.199.111.133		avatars.githubusercontent.com
+185.199.110.133		avatars0.githubusercontent.com
 185.199.108.133		avatars1.githubusercontent.com
 185.199.108.133		avatars2.githubusercontent.com
-185.199.109.133		avatars3.githubusercontent.com
+185.199.110.133		avatars3.githubusercontent.com
 185.199.108.133		avatars4.githubusercontent.com
 185.199.108.133		avatars5.githubusercontent.com
-185.199.109.133		camo.githubusercontent.com
-185.199.109.133		cloud.githubusercontent.com
+185.199.111.133		camo.githubusercontent.com
+185.199.108.133		cloud.githubusercontent.com
 20.85.130.105		copilot-proxy.githubusercontent.com
-185.199.108.133		desktop.githubusercontent.com
+185.199.111.133		desktop.githubusercontent.com
 185.199.108.133		favicons.githubusercontent.com
-185.199.108.133		raw.githubusercontent.com
-185.199.108.133		media.githubusercontent.com
-185.199.109.133		objects.githubusercontent.com
+185.199.110.133		raw.githubusercontent.com
+185.199.110.133		media.githubusercontent.com
+185.199.110.133		objects.githubusercontent.com
 185.199.108.133		user-images.githubusercontent.com
 13.107.42.16		pipelines.actions.githubusercontent.com
-52.217.224.9		github-cloud.s3.amazonaws.com
-54.231.196.81		github-com.s3.amazonaws.com
-16.15.212.164		github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.60.185		github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.90.244		github-production-user-asset-6210df.s3.amazonaws.com
+52.217.206.41		github-cloud.s3.amazonaws.com
+16.15.207.102		github-com.s3.amazonaws.com
+52.217.135.177		github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.229.169		github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.199.148		github-production-user-asset-6210df.s3.amazonaws.com
 185.199.108.133		github.map.fastly.net
-146.75.37.194		github.global.ssl.fastly.net
-150.171.109.72		vscode.dev
+146.75.29.194		github.global.ssl.fastly.net
+150.171.109.70		vscode.dev
 # GitHub Hosts End
 
 # Steam Hosts Start
-23.34.124.241		steam-chat.com
-23.48.8.218		steamcommunity.com
-23.34.124.241		www.steamcommunity.com
-23.39.174.149		api.steampowered.com
+23.48.8.218		steam-chat.com
+23.34.124.241		steamcommunity.com
+23.48.8.218		www.steamcommunity.com
+23.48.203.176		api.steampowered.com
 104.86.82.62		help.steampowered.com
 23.34.126.176		store.steampowered.com
-23.62.230.38		media.steampowered.com
-23.212.248.26		login.steampowered.com
+23.202.230.163		media.steampowered.com
+23.221.227.229		login.steampowered.com
 104.81.162.239		checkout.steampowered.com
-146.75.31.52		community.steamstatic.com
-23.215.0.170		avatars.akamai.steamstatic.com
-23.62.230.38		cdn.akamai.steamstatic.com
-23.54.127.112		community.akamai.steamstatic.com
-23.62.230.34		store.akamai.steamstatic.com
+146.75.39.52		community.steamstatic.com
+23.53.11.248		avatars.akamai.steamstatic.com
+23.53.11.232		cdn.akamai.steamstatic.com
+23.53.11.231		community.akamai.steamstatic.com
+173.223.163.213		store.akamai.steamstatic.com
 23.215.0.134		steamcdn-a.akamaihd.net
 # Steam Hosts End
 
 # TMDB Hosts Start
-3.171.38.81		www.themoviedb.org
-3.170.19.97		api.themoviedb.org
-185.93.1.246		image.tmdb.org
+3.171.38.90		www.themoviedb.org
+3.170.19.106		api.themoviedb.org
+152.233.22.98		image.tmdb.org
 3.170.19.97		api.tmdb.org
 # TMDB Hosts End
 
 # Google_Translate Hosts Start
-64.233.180.95		translate.googleapis.com
-142.251.167.101		translate.google.com
+172.253.115.95		translate.googleapis.com
+64.233.180.139		translate.google.com
 # Google_Translate Hosts End
 
 # wallhaven Hosts Start
-104.26.11.35		wallhaven.cc
-104.26.11.35		th.wallhaven.cc
+104.26.10.35		wallhaven.cc
+172.67.74.111		th.wallhaven.cc
 # wallhaven Hosts End
 
-# Update Time: 2026-09-13 00:09:43 (UTC+8) 
+# Update Time: 2026-09-14 00:55:34 (UTC+8) 
 # Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/hosts
